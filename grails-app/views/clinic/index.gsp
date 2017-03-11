@@ -5,7 +5,7 @@
   </head>
   <body id="Welcome">
     <g:img dir="images" file="pets.png" align="right" style="position:relative;right:30px;"/>
-    <h2><g:message code="Welcome"/></h2>
+    <h2><g:message code="Welcome to version 1.0"/></h2>
 
     <ul>
       <li><g:link controller="owner" action="find">Find owner</g:link></li>
